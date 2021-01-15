@@ -10,4 +10,4 @@ A simple blog/gallery app written in JS, React frontend, ExpressJS, NodeJS backe
 
 3. Run `npm start photo-blog` to start the nodemon server
 
-4. Open [http://localhost:5000/] in your browser of choice
+4. Open <http://localhost:5000/> in your browser of choice
